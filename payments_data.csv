@@ -1,0 +1,9 @@
+id,email,status,amountCents
+
+
+pay-101,petya@ukr.net,PAID,15000
+
+
+pay-102,masha@gmail.com,NEW,2000
+ERROR_LINE,no_email,WRONG_STATUS,abc
+pay-103,ivan@ukma.edu,FAILED,0
